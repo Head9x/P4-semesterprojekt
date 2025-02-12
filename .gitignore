@@ -28,3 +28,7 @@
 *.exe
 *.out
 *.app
+
+# build folder
+build
+CMakeFiles
