@@ -135,7 +135,7 @@
 
 // the real setup.h header file we need is in the build-specific directory,
 // construct the path to it
-#define wxSETUPH_PATH ../../../lib/wxLIB_SUBDIR/wxTOOLKIT_FULL/wx/setup.h
+#define wxSETUPH_PATH ./wxWidgets/lib/wxLIB_SUBDIR/wxTOOLKIT_FULL/wx/setup.h
 
 #define wxSETUPH_PATH_STR wxSTRINGIZE(wxSETUPH_PATH)
 
