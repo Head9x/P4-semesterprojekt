@@ -1,3 +1,0 @@
-C:/Users/frede/Documents/UITest/CMakeFiles/UITest.dir
-C:/Users/frede/Documents/UITest/CMakeFiles/ALL_BUILD.dir
-C:/Users/frede/Documents/UITest/CMakeFiles/ZERO_CHECK.dir
